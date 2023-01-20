@@ -21,21 +21,21 @@ The purpose of this analysis is to analyze bikeshare data from CitiBike in New Y
 ### Tableau Analysis
 Full storyboard/dashboard can be found at: [Link to Dashboard]()
 
-### Customer Demographics
+### Bikesharing Data Visualizations for NYC Citi Bike (August 2019)
 
-### Best Start/End Times
+**Checkout Times for Users**
 
-### Checkout Times for Users
+**Checkout Times by Gender**
 
-### Checkout Times by Gender
+**Trips by Weekday for Each Hour**
 
-### Trips by Weekday for Each Hour
+**Trips by Gender (Weekday per Hour)**
 
-### Trips by Gender (Weekday per Hour)
+**User Trips by Gender**
 
-### User Trips by Gender
+**NYC Dashboard with Customer Demographics**
 
-
+**Bikesharing Peak Hours for the Month of August**
 
 ## Summary
 
