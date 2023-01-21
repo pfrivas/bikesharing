@@ -24,18 +24,28 @@ Full storyboard/dashboard can be found at: [Link to Dashboard](https://public.ta
 ### Bikesharing Data Visualizations for NYC Citi Bike (August 2019)
 
 **Checkout Times for Users**
+![Checkout Times for Users](https://github.com/pfrivas/bikesharing/blob/main/Images/Checkout%20Times%20by%20Users.png)
 
 **Checkout Times by Gender**
+![Checkout Times by Gender](https://github.com/pfrivas/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png)
 
 **Trips by Weekday for Each Hour**
+![Trips by Weekday per Hour](https://github.com/pfrivas/bikesharing/blob/main/Images/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
 **Trips by Gender (Weekday per Hour)**
+![Trips by Gender_Weekday per Hour](https://github.com/pfrivas/bikesharing/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
 **User Trips by Gender**
+![User Trips by Gender](https://github.com/pfrivas/bikesharing/blob/main/Images/User%20Trips%20by%20Gender.png)
 
 **NYC Dashboard with Customer Demographics**
+![Customer Demographics](https://github.com/pfrivas/bikesharing/blob/main/Images/Customer%20Demographics.png)
 
 **Bikesharing Peak Hours for the Month of August**
+![Peak Hours](https://github.com/pfrivas/bikesharing/blob/main/Images/Peak%20Hours.png)
+
+**Bike Maintenance**
+![Maintenance](https://github.com/pfrivas/bikesharing/blob/main/Images/Bike%20Utilization%20and%20Maintenance.png)
 
 ## Summary
 
