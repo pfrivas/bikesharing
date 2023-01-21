@@ -26,26 +26,66 @@ Full storyboard/dashboard can be found at: [Link to Dashboard](https://public.ta
 **Checkout Times for Users**
 ![Checkout Times for Users](https://github.com/pfrivas/bikesharing/blob/main/Images/Checkout%20Times%20by%20Users.png)
 
+Charting the checkout times for users helped visualize that:
+-
+-
+-
+
 **Checkout Times by Gender**
 ![Checkout Times by Gender](https://github.com/pfrivas/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png)
+
+Charting the checkout times for gender helped visualize that:
+-
+-
+-
 
 **Trips by Weekday for Each Hour**
 ![Trips by Weekday per Hour](https://github.com/pfrivas/bikesharing/blob/main/Images/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
+Charting the trips by weekday per hour helped visualize that:
+-
+-
+-
+
 **Trips by Gender (Weekday per Hour)**
 ![Trips by Gender_Weekday per Hour](https://github.com/pfrivas/bikesharing/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
+
+Charting the trips by gender by weekday per hour helped visualize that:
+-
+-
+-
 
 **User Trips by Gender**
 ![User Trips by Gender](https://github.com/pfrivas/bikesharing/blob/main/Images/User%20Trips%20by%20Gender.png)
 
+Charting the user trips by gender helped visualize that:
+-
+-
+-
+
 **NYC Dashboard with Customer Demographics**
 ![Customer Demographics](https://github.com/pfrivas/bikesharing/blob/main/Images/Customer%20Demographics.png)
+
+Creating a dashboard with customer demographics and top starting locations helped visualize that:
+-
+-
+-
 
 **Bikesharing Peak Hours for the Month of August**
 ![Peak Hours](https://github.com/pfrivas/bikesharing/blob/main/Images/Peak%20Hours.png)
 
+Charting the peak hours for the month of august helped visualize that:
+-
+-
+-
+
 **Bike Maintenance**
 ![Maintenance](https://github.com/pfrivas/bikesharing/blob/main/Images/Bike%20Utilization%20and%20Maintenance.png)
+
+Charting the usage of bikes and ending locations helped visualize that:
+-
+-
+-
 
 ## Summary
 
