@@ -10,7 +10,7 @@ The purpose of this analysis is to analyze bikeshare data from CitiBike in New Y
 - What days of the week a user might be more likely to checkout a bike, by type of user and gender
 
 ### Resources
-- Data Source: [Citi Bike Data](https://citibikenyc.com/system-data), [201908 Citibike Trip Data]()
+- Data Source: [Citi Bike Data](https://citibikenyc.com/system-data), [201908 Citibike Trip Data](https://s3.amazonaws.com/tripdata/index.html)
 - Python
 - Anaconda Navigator and Jupyter Notebook
 - Tableau Public
