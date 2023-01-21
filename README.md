@@ -19,7 +19,7 @@ The purpose of this analysis is to analyze bikeshare data from CitiBike in New Y
 
 ## Results
 ### Tableau Analysis
-Full storyboard/dashboard can be found at: [Link to Dashboard]()
+Full storyboard/dashboard can be found at: [Link to Dashboard](https://public.tableau.com/app/profile/paola.rivas4427/viz/Module14_Bikesharing_16742556453380/NYCCitiBikeStory)
 
 ### Bikesharing Data Visualizations for NYC Citi Bike (August 2019)
 
