@@ -90,7 +90,7 @@ Charting the usage of bikes and ending locations helped visualize that:
 ## Summary
 
 ### Key Results
-For the month of August in NYC, the most common users of CitiBike bikes are male-identifying subscribers and the most common locations for rides are in large metropolitan areas. Peak usage is during morning rush hour (8am-10am) and end or work day rush hour (5pm-6pm) commute times. The lowest usage hours are between 3 AM and 4 AM. These hours would be the best times to conduct bike repairs and redistribution of bikes from the most populated stations to less populated stations.
+For the month of August in NYC, there was a total of 2,344,244 bike rides. The most common users of CitiBike bikes are male-identifying subscribers and the most common locations for rides are in large metropolitan areas. Most rides are less than an hour long. Peak usage is during morning rush hour (8am-10am) and end or work day rush hour (5pm-6pm) commute times. The lowest usage hours are between 3 AM and 4 AM. These hours would be the best times to conduct bike repairs and redistribution of bikes from the most populated stations to less populated stations. The most common workday for rides is Thursday and the most common day overall for rides is saturday.
 
 ### Additional Visualizations
 - Comparing data across different months to visualize trends throughout the entire year
