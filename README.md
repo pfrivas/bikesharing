@@ -46,6 +46,7 @@ Charting the trips by weekday per hour helped visualize that:
 - The heatmap reinforces how much of the userbase uses CitiBike bikes during their workday commute
 - The heatmap shows the busiest times are 5pm - 6pm on Thursday
 - The heat map also shows how the busiest day, all day to rent a bike is Saturday 
+
 **Trips by Gender (Weekday per Hour)**
 ![Trips by Gender_Weekday per Hour](https://github.com/pfrivas/bikesharing/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
@@ -82,14 +83,14 @@ Charting the peak hours for the month of august helped visualize that:
 ![Maintenance](https://github.com/pfrivas/bikesharing/blob/main/Images/Bike%20Utilization%20and%20Maintenance.png)
 
 Charting the usage of bikes and ending locations helped visualize that:
-- The most common ending location had 16,455 rides
+- The most common ending locations are in metropolitin areas with the most common location having 16,455 rides end there.
 - The most used bike had over 1000 hours of usage
 - The bike with the most trips had 479 rides logged
 
 ## Summary
 
 ### Key Results
-Peak usage is during morning rush hour (8am-10am) and end or work day rush hour (5pm-6pm) commute times. The lowest usage hours are between 3 AM and 4 AM. These hours would be the best times to conduct bike repairs and redistribution of bikes from full stations to less populated stations.
+For the month of August in NYC, the most common users of CitiBike bikes are male-identifying subscribers and the most common locations for rides are in large metropolitan areas. Peak usage is during morning rush hour (8am-10am) and end or work day rush hour (5pm-6pm) commute times. The lowest usage hours are between 3 AM and 4 AM. These hours would be the best times to conduct bike repairs and redistribution of bikes from the most populated stations to less populated stations.
 
 ### Additional Visualizations
 - Comparing data across different months to visualize trends throughout the entire year
