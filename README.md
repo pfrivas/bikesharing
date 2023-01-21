@@ -27,69 +27,69 @@ Full storyboard/dashboard can be found at: [Link to Dashboard](https://public.ta
 ![Checkout Times for Users](https://github.com/pfrivas/bikesharing/blob/main/Images/Checkout%20Times%20by%20Users.png)
 
 Charting the checkout times for users helped visualize that:
--
--
--
+- The majority of trips taken are under an hour in length. 
+- Most trips are under a half-hour in length
+- There is a large dropoff in number of rides over an hour in length.
 
 **Checkout Times by Gender**
 ![Checkout Times by Gender](https://github.com/pfrivas/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png)
 
 Charting the checkout times for gender helped visualize that:
--
--
--
+- This is the breakdown of number of rides by duration, separated by gender
+- The majority of rides are taken by male-identifying customers.
+- Female-identifying customers are almost 3 times less that those identifying as male
 
 **Trips by Weekday for Each Hour**
 ![Trips by Weekday per Hour](https://github.com/pfrivas/bikesharing/blob/main/Images/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
 Charting the trips by weekday per hour helped visualize that:
--
--
--
-
+- The heatmap reinforces how much of the userbase uses CitiBike bikes during their workday commute
+- The heatmap shows the busiest times are 5pm - 6pm on Thursday
+- The heat map also shows how the busiest day, all day to rent a bike is Saturday 
 **Trips by Gender (Weekday per Hour)**
 ![Trips by Gender_Weekday per Hour](https://github.com/pfrivas/bikesharing/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
 Charting the trips by gender by weekday per hour helped visualize that:
--
--
--
+- The male identifying users take significantly more rides than the female identifying users
+- Overall all genders tend to ride at the same times
+- Wednesday seems to be the least busiest weekdays for both genders
 
 **User Trips by Gender**
 ![User Trips by Gender](https://github.com/pfrivas/bikesharing/blob/main/Images/User%20Trips%20by%20Gender.png)
 
 Charting the user trips by gender helped visualize that:
--
--
--
+- The heatmap reinforces how much of the userbase is dominated by male-identifying users
+- The heatmap also shows the majority of the user database are subscribers
+- There are hardly any subscribers that do not identify their gender
 
 **NYC Dashboard with Customer Demographics**
 ![Customer Demographics](https://github.com/pfrivas/bikesharing/blob/main/Images/Customer%20Demographics.png)
 
 Creating a dashboard with customer demographics and top starting locations helped visualize that:
--
--
--
+- Subscribers make up the majority (over 3/4) of the customer database and are regular bike users
+- The majority of Citi Bike users are Male (~ 60%)
+- The younger users tend to take longer bike rides on average than the older users
 
 **Bikesharing Peak Hours for the Month of August**
 ![Peak Hours](https://github.com/pfrivas/bikesharing/blob/main/Images/Peak%20Hours.png)
 
 Charting the peak hours for the month of august helped visualize that:
--
--
--
+- The most common times of bike usage or during rush hour (before and after work)
+- The least common times of bike usage are between the hours of 3 - 4am
+- From 10am to 5pm the amount of bike usage gradually increases
 
 **Bike Maintenance**
 ![Maintenance](https://github.com/pfrivas/bikesharing/blob/main/Images/Bike%20Utilization%20and%20Maintenance.png)
 
 Charting the usage of bikes and ending locations helped visualize that:
--
--
--
+- The most common ending location had 16,455 rides
+- The most used bike had over 1000 hours of usage
+- The bike with the most trips had 479 rides logged
 
 ## Summary
 
 ### Key Results
+Peak usage is during morning rush hour (8am-10am) and end or work day rush hour (5pm-6pm) commute times. The lowest usage hours are between 3 AM and 4 AM. These hours would be the best times to conduct bike repairs and redistribution of bikes from full stations to less populated stations.
 
 ### Additional Visualizations
 - Comparing data across different months to visualize trends throughout the entire year
